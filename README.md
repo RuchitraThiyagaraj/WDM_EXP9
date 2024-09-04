@@ -26,14 +26,14 @@ for this purpose.
 
 
 ### Output:
-![362795423-7cb1718a-d07f-4165-b9a7-7327948ecec7](https://github.com/user-attachments/assets/51f88116-59e4-40c1-882a-04d8df86f9b5)
-![362795508-6f4ad1de-9fc8-49e7-b262-1d6baebfc5c4](https://github.com/user-attachments/assets/23ca17fa-0d9f-4ca2-a563-99a53a254834)
-![362795543-ee8d4611-9b4a-477b-9a85-90136ed44834](https://github.com/user-attachments/assets/b0543ce6-3f16-4952-a5ec-fc53a024ef75)
-![362795582-c1862eb5-3868-4df2-b399-54986c2c291d](https://github.com/user-attachments/assets/648edeca-2eb5-47f6-8090-b61d0ae5d897)
-![362795625-4bcf68a0-928e-42b3-9fe6-163021af2228](https://github.com/user-attachments/assets/90cdad21-88be-47eb-a91c-740f240bbbb5)
-![362795666-eb7db4a1-8bce-4ced-b66a-77dc7ba97fc9](https://github.com/user-attachments/assets/7153e608-3b99-4827-8994-e927b2ca0bb6)
-![362795723-0b31a852-cc44-4dc3-a96d-d1638fbb2da9](https://github.com/user-attachments/assets/2b8e014c-6c03-4f13-8dfb-82a51b1fd23c)
-![362795756-5b673318-2c4c-4b08-b24d-574cae39a07d](https://github.com/user-attachments/assets/656ed735-3cb3-44af-9eba-aed987aedb98)
+![image](https://github.com/user-attachments/assets/e8b613a5-9473-4097-85cc-3c5c716599ba)
+![362795508-6f4ad1de-9fc8-49e7-b262-1d6baebfc5c4](https://github.com/user-attachments/assets/922bdac3-5a6b-4ba9-9471-6a8b7bd862ac)
+![image](https://github.com/user-attachments/assets/132e3f85-bee6-45cc-af3b-6fa89b6c651c)
+![362795582-c1862eb5-3868-4df2-b399-54986c2c291d](https://github.com/user-attachments/assets/c50ad390-3bb6-4b37-83b7-3251758d7f3c)
+![image](https://github.com/user-attachments/assets/a23f352a-a5b5-4628-9669-19119b19d5ff)
+![image](https://github.com/user-attachments/assets/3d211384-c941-416b-9f31-49b300d4f8dd)
+![362795723-0b31a852-cc44-4dc3-a96d-d1638fbb2da9](https://github.com/user-attachments/assets/5ebaab6a-1c3a-4e8a-8e08-b3c123cd1023)
+![362795756-5b673318-2c4c-4b08-b24d-574cae39a07d](https://github.com/user-attachments/assets/8f0e30be-375c-4b2e-9642-8e30d65fd189)
 
 
 ### Result:
